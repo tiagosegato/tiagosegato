@@ -1,12 +1,15 @@
 <!-- Referências: 
 https://github.com/anuraghazra/github-readme-stats 
 https://github.com/Ileriayo/markdown-badges
+https://github.com/tandpfun/skill-icons
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
 
-# Olá! Eu sou o professor Tiago Segato, e...
+## Olá! Eu sou o professor Tiago Segato :mechanical_arm:
 
-- :computer: Sou professor de desenvolvimento web, mobile e design do IFB campus Brasília;
+- :man_teacher: Sou professor de desenvolvimento web, mobile e design do IFB campus Brasília;
 - :video_camera: Também ensino pelo YouTube;
+- :computer: Aqui você encontrará projetos meus e dos meus alunos/orientandos;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosegato&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
