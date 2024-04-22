@@ -6,16 +6,21 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
 
 ## Olá! Eu sou o professor Tiago Segato :mechanical_arm:
+<br>
 
 - :man_teacher: Sou professor de desenvolvimento web, mobile e design do IFB campus Brasília;
 - :video_camera: Também ensino pelo YouTube;
 - :computer: Aqui você encontrará projetos meus e dos meus alunos/orientandos;
 
+#
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosegato&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
-##
+<br>
 
+##
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
