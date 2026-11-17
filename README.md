@@ -21,9 +21,12 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
 <br>
 
+<!--referencia:  https://github.com/rondrft/gstats-->
 <div align="center">
-  <img height="360" src="https://gstats.rondrft.workers.dev/api?username=tiagosegato&card=terminal&theme=ice&tz=America/Sao_Paulo"/>
-  <img height="220" src="https://gstats.rondrft.workers.dev/api?username=tiagosegato&card=terminal&theme=ice&langs_count=5&bg=transparent&scanlines=false&tz=America/Sao_Paulo"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gstats.rondrft.workers.dev/api?username=tiagosegato&card=terminal&theme=ice&langs_count=5&include_langs=HTML,CSS&bg=transparent&border=none&scanlines=false&tz=America/Sao_Paulo"/>
+    <img src="https://gstats.rondrft.workers.dev/api?username=tiagosegato&card=terminal&theme=light&langs_count=5&include_langs=HTML,CSS&bg=transparent&border=none&scanlines=false&tz=America/Sao_Paulo"/>
+  </picture>
 </div>
 
 ##
