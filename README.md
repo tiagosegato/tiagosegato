@@ -15,7 +15,7 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 <div style="display:inline-block" align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=tiagosegato&show_icons=true&theme=tokyonight"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosegato&layout=compact&theme=tokyonight"/>
 </div>
 
 <br>
