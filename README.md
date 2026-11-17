@@ -13,12 +13,18 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 - :video_camera: Também ensino pelo YouTube (http://youtube.com/@tiagosegato);
 - :computer: Aqui você encontrará projetos meus e dos meus alunos/orientandos;
 
+<!--
 <div style="display:inline-block" align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tiagosegato&show_icons=true&theme=tokyonight"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosegato&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=tiagosegato&show_icons=true&theme=tokyonight"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tiagosegato&layout=compact&theme=tokyonight"/>
 </div>
-
+-->
 <br>
+
+<div align="center">
+  <img height="360" src="https://gstats.rondrft.workers.dev/api?username=tiagosegato&card=terminal&theme=ice&tz=America/Sao_Paulo"/>
+  <img height="220" src="https://gstats.rondrft.workers.dev/api?username=tiagosegato&card=terminal&theme=ice&langs_count=5&bg=transparent&scanlines=false&tz=America/Sao_Paulo"/>
+</div>
 
 ##
 
