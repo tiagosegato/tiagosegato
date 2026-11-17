@@ -9,9 +9,9 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 :globe_with_meridians: https://tiagosegato.com
 <br><br>
 
-:man_teacher: Professor de desenvolvimento web, mobile e design do IFB campus Brasília;<br>
-:video_camera: Também ensino pelo YouTube (http://youtube.com/@tiagosegato);<br>
-:computer: Aqui você encontrará projetos meus e dos meus alunos/orientandos;<br>
+🧑🏻‍💻 Professor de desenvolvimento web, mobile e design do IFB campus Brasília;<br>
+🖥️ Também ensino pelo YouTube (http://youtube.com/@tiagosegato);<br>
+💡 Aqui você encontrará projetos meus e dos meus alunos/orientandos;
 
 <br>
 
