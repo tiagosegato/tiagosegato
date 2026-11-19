@@ -6,11 +6,11 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
 
 ## Olá! Eu sou o professor Tiago Segato :mechanical_arm:
-:globe_with_meridians: https://tiagosegato.com
+🌐 https://tiagosegato.com
 <br><br>
 
 🧑🏻‍💻 Professor de desenvolvimento web, mobile e design do IFB campus Brasília;<br>
-🖥️ Também ensino pelo YouTube (http://youtube.com/@tiagosegato);<br>
+🎬 Também ensino pelo YouTube (http://youtube.com/@tiagosegato);<br>
 💡 Aqui você encontrará projetos meus e dos meus alunos/orientandos;
 
 <br>
